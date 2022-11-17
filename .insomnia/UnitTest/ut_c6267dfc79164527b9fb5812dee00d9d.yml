@@ -1,0 +1,10 @@
+_id: ut_c6267dfc79164527b9fb5812dee00d9d
+type: UnitTest
+parentId: uts_469b245fff754ac8a26ca796b55ee298
+modified: 1668707205220
+created: 1668707138195
+requestId: req_279a0a7c8a334bcbba3282edc3ab365a
+name: Returns 200
+code: |-
+  const response1 = await insomnia.send('https://google.fr');
+  expect(response1.status).to.equal(200);

@@ -1,0 +1,21 @@
+_id: req_741ee1e9e369405a9d7a457590864bf4
+type: Request
+parentId: fld_8f1314ba196c40bb816df389a62438c1
+modified: 1668707104787
+created: 1668707099649
+url: https://google.fr
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668707099649
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
